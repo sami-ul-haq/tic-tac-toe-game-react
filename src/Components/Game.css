@@ -1,0 +1,18 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn-restart{
+    padding: 5px;
+    color: #ffffff;
+    background-color: darkblue;
+    border: none;
+    outline: none;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+.btn-restart:hover{
+    background-color: darkslateblue;
+}
