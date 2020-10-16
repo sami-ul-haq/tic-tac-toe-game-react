@@ -18,5 +18,5 @@ export function calculateWinner(squares) {
   return null;
 }
 
-const squares = [null, null, null, "X", "X", "O", null, null, null];
+// const squares = [null, null, null, "X", "X", "O", null, null, null];
 
